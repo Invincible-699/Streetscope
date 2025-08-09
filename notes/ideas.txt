@@ -1,1 +1,5 @@
+- Track underground music trends by city
+- Let users submit pics of streetwear they spot
+- Weekly newsletter of top new trends
+- Auto-tag posts based on hashtags
 
