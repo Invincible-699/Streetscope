@@ -1,4 +1,4 @@
-![Logo](notes/designs/logo.png)
+[Logo](notes/designs/logo.png)
 
 # StreetScope
 Spot the next trend before it’s everywhere.
