@@ -1,5 +1,117 @@
+STREETSCOPE — IDEAS (v1)
+
 - Track underground music trends by city
 - Let users submit pics of streetwear they spot
 - Weekly newsletter of top new trends
 - Auto-tag posts based on hashtags
+
+STREETSCOPE — IDEAS (v2)
+
+Last updated: 2025-08-25
+
+ONE-LINER
+Spot the next street trend before it’s everywhere.
+
+PROBLEM
+Trends pop up fast (reels, shorts, streetwear drops). Most die unnoticed. There’s no simple, public, youth-first way to log, tag, and track early signals.
+
+WHO IT’S FOR
+• Teens/Gen Z trend spotters
+• Small creators/brands
+• Student hackers building mini-startups
+
+ANTI-GOALS
+• Not another TikTok clone
+• Not a heavy research dashboard
+• No scraping bots right now — start manual, community-first
+
+HYPOTHESES
+• H1: 10–20 sharp, well-tagged blurbs each week is enough signal.
+• H2: Tag taxonomy + weekly highlight makes it sticky.
+• H3: Public JSON + tiny site is the fastest MVP.
+
+CORE LOOP
+Observe IRL/online → Add a short “trend blurb” (name, why-now, 3 tags, 1 link) → Auto-shows on site → Weekly pick.
+
+MVP (v0.1) MUST-HAVES
+• Public repo + Pages site
+• 10 seed trend blurbs (JSON)
+• Simple list view + tag filter
+• Issue template for submissions
+
+FEATURE BACKLOG
+NOW
+• Seed 10 blurbs
+• Tag taxonomy
+• Pages list page that reads JSON
+NEXT
+• Submit form (Google Form → CSV → PR)
+• “Trend of the Week” page
+LATER
+• Upvote system
+• Simple charts (per-tag counts)
+
+DATA SOURCES (MANUAL)
+• Reels/Shorts, Pinterest Trends, Reddit subs (r/streetwear, r/sneakers), brand lookbooks, IRL photos.
+
+TAG TAXONOMY (STARTER)
+accessory, footwear, hoodie, denim, techwear, minimal, diy, reflective, cycling, streetwear, color-pop, vintage, oversized
+
+SEED TRENDS (EXAMPLES)
+- name: Micro-sling bags
+  whyNow: Uptick in outfit reels; pockets shrinking; functional minimalism.
+  tags: accessory, minimal, streetwear
+  source: https://example.com
+- name: Retro reflective trims
+  whyNow: Night-ride culture; safety aesthetics look cool on camera.
+  tags: reflective, cycling, techwear
+  source: https://example.com
+- name: Hand-custom hoodies
+  whyNow: DIY revival; micro-creators selling 1/1 drops.
+  tags: hoodie, diy, streetwear
+  source: https://example.com
+- name: Fat laces on sneakers
+  whyNow: 90s throwback + skate edits.
+  tags: footwear, vintage, streetwear
+  source: https://example.com
+- name: Contrast-stitch denim
+  whyNow: Visible craft trend; shows well in photos.
+  tags: denim, streetwear
+  source: https://example.com
+- name: Neon accent belts
+  whyNow: Small cheap pop for fits.
+  tags: accessory, color-pop
+  source: https://example.com
+- name: Zip-off cargo pants
+  whyNow: Utility + remix culture.
+  tags: techwear, streetwear
+  source: https://example.com
+- name: Mesh caps (low crown)
+  whyNow: Y2K sports nostalgia.
+  tags: accessory, vintage
+  source: https://example.com
+- name: Oversized rugby shirts
+  whyNow: Preppy-core blending with street.
+  tags: oversized, vintage, streetwear
+  source: https://example.com
+- name: Paracord keychains
+  whyNow: Cheap maker item, easy tutorials.
+  tags: diy, accessory
+  source: https://example.com
+
+SUCCESS METRICS (MIN)
+• v0.1: 10 blurbs live, 1 weekly highlight
+• v0.2: 30+ blurbs, tag search, 3 outside submissions
+
+RISKS
+• Low submissions → seed yourself weekly
+• Messy tags → keep small, prune monthly
+
+OPEN QUESTIONS
+• Keep everything fashion-first or include gadgets/urban-culture?
+• Do we need photos per blurb or links are enough?
+
+CHANGELOG
+2025-08-25: Created v2 ideas, added 10 seed trends.
+
 
