@@ -1,5 +1,5 @@
 # StreetScope
-![StreetScope Banner](notes/designs/logo.png)
+[StreetScope Banner](notes/designs/logo.png)
 
 Spot the next trend before it’s everywhere.
 
