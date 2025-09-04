@@ -1,1 +1,28 @@
-
+{
+    "trends": [
+        {
+            "id": 1,
+            "name": "Oversized Graphic Tees",
+            "category": "Topwear",
+            "popularity": 87,
+            "origin": "Streetwear",
+            "description": "Loose-fitting tees with bold graphics, logos, or vintage designs."
+        },
+        {
+            "id": 2,
+            "name": "Baggy Cargo Pants",
+            "category": "Bottomwear",
+            "popularity": 81,
+            "origin": "Utility/Street",
+            "description": "Wide-legged pants with multiple pockets, inspired by military and Y2K fashion."
+        },
+        {
+            "id": 3,
+            "name": "Chunky Sneakers",
+            "category": "Footwear",
+            "popularity": 90,
+            "origin": "90s Revival",
+            "description": "Thick-soled sneakers, often in white or neutral tones, popular in both casual and runway fashion."
+        }
+    ]
+}
